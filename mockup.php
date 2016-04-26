@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<link type="text/css" href="css/style.css" rel="stylesheet"/>
+		<link type="text/css" href="css/style.css" rel="stylesheet" />
 		<style>
 			body {
 				margin: 0;
@@ -18,6 +18,6 @@
 		<title>Basic CSS Mockup</title>
 	</head>
 	<body>
-		<img src="img/mockup.jpg" alt="mockup example"/>
+		<img src="img/mockup.jpg" alt="mockup example" />
 	</body>
 </html>
