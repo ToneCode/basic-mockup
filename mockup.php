@@ -2,6 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
+		<link type="text/css" href="css/style.css" rel="stylesheet" />
 		<style>
 			body {
 				margin: 0;
