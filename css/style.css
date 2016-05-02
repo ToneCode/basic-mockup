@@ -50,7 +50,8 @@ body {
 
 header {
 	background-color: lightskyblue;
-	padding: 10px 0;
+	padding: 20px 0;
+	margin: 20px 0;
 }
 .pull-left{
 	float: left;
