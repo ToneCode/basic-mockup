@@ -7,20 +7,15 @@
 
 html,
 body {
-	margin: 0px 40px 10px;
+	margin: 0;
 }
-header {
-	margin-top: 2px;
-	width: 2000px;
-	background: lightskyblue;
-	font-size: 13px;
 
 
 }
 
 .container {
 	margin: 0 auto;
-	width: 768px;
+	width: 1170px;
 }
 
 .clear {
@@ -49,3 +44,22 @@ body { width: 100%;}
 /********************************************
 * ADD YOUR CSS HERE :D
 ********************************************/
+body {
+	font-family: sans-serif;
+}
+
+header {
+	background-color: lightskyblue;
+	padding: 10px 0;
+}
+.pull-left{
+	float: left;
+}
+.pull-right{
+	float: right;
+
+}
+footer{
+	background-color: black#;
+
+}
